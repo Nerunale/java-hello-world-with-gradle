@@ -65,5 +65,5 @@ task test2 {
 }
 
 task test3 {
-    println 'HelloWorld3'
+    println 'Hello World3'
 }
