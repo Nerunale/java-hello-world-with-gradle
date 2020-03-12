@@ -57,13 +57,13 @@ dependencies {
 }
 
 task test1 {
-    print 'HelloWorld1'
+    println 'HelloWorld1'
 }
 
 task test2 {
-    print 'HelloWorld2'
+    println 'HelloWorld2'
 }
 
 task test3 {
-    print 'HelloWorld3'
+    println 'HelloWorld3'
 }
