@@ -55,6 +55,15 @@ dependencies {
     compile "joda-time:joda-time:2.2"
     testCompile "junit:junit:4.12"
 }
-// end::dependencies[]
 
-// end::wrapper[]
+task test1 {
+    print 'HelloWorld1'
+}
+
+task test2 {
+    print 'HelloWorld2'
+}
+
+task test3 {
+    print 'HelloWorld3'
+}
